@@ -1,0 +1,1 @@
+Error: invalid token before # at line 1
